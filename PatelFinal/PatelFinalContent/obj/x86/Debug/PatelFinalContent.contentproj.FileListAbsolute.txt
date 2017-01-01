@@ -1,0 +1,4 @@
+c:\users\savan\documents\visual studio 2013\Projects\PatelFinal\PatelFinal\PatelFinalContent\obj\x86\Debug\PatelFinalContent.contentprojResolveAssemblyReference.cache
+E:\Programming\grade 12\PatelFinal\PatelFinal\PatelFinalContent\obj\x86\Debug\PatelFinalContent.contentprojResolveAssemblyReference.cache
+C:\Users\7\Desktop\PatelFinal\PatelFinal\PatelFinalContent\obj\x86\Debug\PatelFinalContent.contentprojResolveAssemblyReference.cache
+C:\Users\7\Documents\Visual Studio 2010\Projects\PatelFinal\PatelFinal\PatelFinalContent\obj\x86\Debug\PatelFinalContent.contentprojResolveAssemblyReference.cache
